@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  repo: willie-lee/company-branding
 
 media_folder: content/assets
 public_folder: ../assets
